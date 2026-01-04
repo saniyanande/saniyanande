@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saniyanande)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/saniyanande)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saniyanande)
-[![Instagram](https://img.shields.io/badge/Instagram-17700E?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/@techbysaniya](https://www.instagram.com/techbysaniya/))
+[![Instagram](https://img.shields.io/badge/Instagram-17700E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techbysaniya)
 
 
 </div>
